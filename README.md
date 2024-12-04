@@ -1,8 +1,7 @@
-# odin-recipes
-# Building a basic recipe website
+odin-recipes for learning
 
-# This document will detail basic recipes for preparing Nigerian food
-# skills like links, image, video and audio will be demonstrated on this document
-# will also demonstrate the use of forms for the user to select which delicacies that will interest the user
-# Creating this page will teach the user different recipes for making nigerian dishes
-# At the end of this project i should be able to review all what i have learnt
+Building a basic recipe website (Using HTML to build a receipe webpage)
+
+Learning how to detail basic recipes for preparing Nigerian food in a page.I learnt how to link pages together, use URL from different website, innoculate links, image, video and audio Into an HTML document.
+
+Learnt how to create different pages for each meal and linked them to the home page.
